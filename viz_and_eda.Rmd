@@ -59,9 +59,10 @@ weather_df %>%
   geom_point(alpha = .3) +
   geom_smooth(se = FALSE) +
   facet_grid(. ~ name)
-  
-
 ```
+
+
+what the fuck is that
 
 
 

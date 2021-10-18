@@ -106,3 +106,5 @@ weather_df %>%
     ## Warning: Removed 15 rows containing missing values (geom_point).
 
 ![](viz_and_eda_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+
+what the fuck is that
